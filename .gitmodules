@@ -1,3 +1,6 @@
 [submodule "navbar"]
 	path = navbar
 	url = git@github.com:GarudaPratama/mudol-belajar-submodul.git
+[submodule "body"]
+	path = body
+	url = git@github.com:GarudaPratama/mudol-belajar-submodul.git
