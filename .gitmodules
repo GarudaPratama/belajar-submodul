@@ -4,6 +4,3 @@
 [submodule "body"]
 	path = body
 	url = git@github.com:GarudaPratama/mudol-belajar-submodul.git
-[submodule "modul-belajar-submodul-2"]
-	path = modul-belajar-submodul-2
-	url = git@github.com:GarudaPratama/modul-belajar-submodul-2.git
